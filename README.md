@@ -1,6 +1,5 @@
-# Tesis doctoral (catalán)
-# Jiahui Li
-# 2022
+# Tesis doctoral (catalán) 2022
+# Autor/a: Jiahui Li
 # Título en castellano: CARACTERIZACIÓN DE CATÉTERES DE TROMBECTOMÍA PARA LA OPTIMIZACIÓN DE ESTRATEGIAS DE TRATAMIENTO ENDOVASCULAR DEL ICTUS ISQUÉMICO AGUDO
 
 
